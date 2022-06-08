@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @eleo-jens
 - 👀 I’m interested in back-end web development
 - 🌱 I’m currently learning PHP, C#, HTML and CSS @ Interface3 - Brussels
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleo-jens&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- 📫 How to reach me ...
 
