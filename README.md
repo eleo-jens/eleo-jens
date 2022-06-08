@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eleo-jens
 - 👀 I’m interested in back-end web development
-- 🌱 I’m currently learning PHP, HTML and CSS
+- 🌱 I’m currently learning PHP, C#, HTML and CSS @ Interface3 - Brussels
 
 <!--- 📫 How to reach me ...
 
