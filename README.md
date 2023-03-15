@@ -10,6 +10,8 @@
 
 ### 📫 How to reach me ...
 
+<center>
+
 [![website](./img/globe-light.svg)](http://www.if3projets.net/wad22/eleonore/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://www.if3projets.net/wad22/eleonore/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -19,3 +21,4 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/eleo_jens/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/eleo_jens/#gh-dark-mode-only)
 
+  </center>
