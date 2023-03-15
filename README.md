@@ -12,7 +12,9 @@
 
 
 <center>
-
+[![website](./img/globe-light.svg)](http://www.if3projets.net/wad22/eleonore/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](http://www.if3projets.net/wad22/eleonore/#gh-dark-mode-only)
+&nbsp;&nbsp;
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/eleonore-stultjens/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/eleonore-stultjens/#gh-dark-mode-only)
