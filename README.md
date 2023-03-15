@@ -3,7 +3,6 @@
 - 👀 I’m interested in back-end web development
 - 🌱 I’m currently learning PHP, C#, CSS/HTML, JavaScript and the frameworks Symfony, ASP.Net and Angular <a href="https://www.interface3.be/fr/formation/web-application-developer" target="_blank">@ Interface3 - Brussels</a>
 - ⚡ Fun fact: I love flying my drone
-<br>
 
 ### Languages and Tools:
 
@@ -15,15 +14,16 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/adobexd.svg" style="padding-right:10px;color:#FF61F6;"/>
-<img align="left" alt="Terminal" width="26px" src="./img/angular.svg" style="padding-right:10px;color:#DD0031;"/>
-<img align="left" alt="Terminal" width="26px" src="./img/csharp.svg" style="padding-right:10px;color:#239120;"/>
-<img align="left" alt="Terminal" width="26px" src="./img/dotnet.svg" style="padding-right:10px;color:#512BD4;"/>
-<img align="left" alt="Terminal" width="26px" src="./img/php.svg" style="padding-right:10px;color:#777BB4;"/>
-<img align="left" alt="Terminal" width="26px" src="./img/symfony.svg" style="padding-right:10px;"/>
-<img align="left" alt="Terminal" width="26px" src="./img/visualstudio.svg" style="padding-right:10px;color:#5C2D91;" />
+<img align="left" alt="XD" width="26px" src="https://cdn.simpleicons.org/adobexd" style="padding-right:10px;"/>
+<img align="left" alt="Angular" width="26px" src="https://cdn.simpleicons.org/angular" style="padding-right:10px;;"/>
+<img align="left" alt="CSharp" width="26px" src="https://cdn.simpleicons.org/csharp" style="padding-right:10px;"/>
+<img align="left" alt="DotNet" width="26px" src="https://cdn.simpleicons.org/dotnet" style="padding-right:10px;"/>
+<img align="left" alt="Php" width="26px" src="https://cdn.simpleicons.org/php" style="padding-right:10px;"/>
+<img align="left" alt="Symfony" width="26px" src="https://cdn.simpleicons.org/symfony" style="padding-right:10px;"/>
+<img align="left" alt="VisualStudio" width="26px" src="https://cdn.simpleicons.org/visualstudio" style="padding-right:10px;" />
+<br>
 <br>
 <br>
 
